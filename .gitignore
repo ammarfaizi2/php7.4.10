@@ -1,3 +1,5 @@
+/pcre2-10.35
+
 # These files are generated during building or development and are intentionally
 # untracked to ignore by Git. For other development environment specific files,
 # such as editor configuration, a good practice is to exclude them using the
